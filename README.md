@@ -9,5 +9,6 @@
 2. Process data with command below 
 
  ```make run```
+ ... Test
 
 3. The result that has processed can be see in `data/After Eod.csv` file 
